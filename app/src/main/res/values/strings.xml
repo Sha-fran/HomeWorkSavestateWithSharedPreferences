@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HomeWorkSavestateWithSharedPreferences</string>
+    <string name="push_the_button_below">Push the button below</string>
 </resources>
